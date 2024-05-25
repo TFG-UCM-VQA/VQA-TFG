@@ -13,7 +13,7 @@ Samples of the dataset and notebooks used to download and analyze it. Large file
 - images: images samples of the final case base.
 
 ### image_recuperation
-A study of different similarity metrics between images divided in three types. Each similarity type follows the same structure: a .py file with utils relted to that type and a .ipynb notebook with a quick study and samples of some results using the different similarity metrics:
+A study of different similarity metrics between images divided in three types. Each similarity type follows the same structure: a .py file with utils related to that type and a .ipynb notebook with a quick study and samples of some results using the different similarity metrics:
   - Pixel level similarities:
     - image_sim_pix.ipynb
     - image_pix_utils.py
@@ -28,7 +28,13 @@ A study of different similarity metrics between images divided in three types. E
 
 ### question_recuperation
 Processes to recover questions from most similar images.
-
+- embeddings: Question embeddings generated from our base case with gte-small.
+- question_embedding_generator.ipynb: Embedding generator of questions from our base case.
+- question_rec.ipynb: Complete process of recuperation of the questions with the selected different models.
+- question_utils.py: Utils related question recuperation.
+- questions.pickle: Question embeddings list in a .pikle format.
+- questions_for_test.ypynb: Code for reading test_questions.txt.
+- test_questions.txt: Text file with questions selected for test images.
 ### recuperation_evaluation
 Answer processing and analysis of user test done to evaluate best similarity metric for question retrieval.
 - Test A.csv and Test B.csv: Files containing the user cuestionaries answers
