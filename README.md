@@ -70,7 +70,7 @@ See project memory to see all references and bibliography.
 Special mention to [https://github.com/tylin/coco-caption](https://github.com/tylin/coco-caption)
 
 ## Developers
-- Rubén Gómez Blanco (Universidad Complutense de Madrid) [https://github.com/rubengb18](https://github.com/rubengb18)
+- Rubén Gómez Blanco (Universidad Complutense de Madrid) [Github profile](https://github.com/rubengb18)
 - Adrián Pérez Peinador (Universidad Complutense de Madrid)
 - Adrián Sanjuán Espejo (Universidad Complutense de Madrid)
   
