@@ -5,6 +5,8 @@ In this research we propose an alternative to multimodal generative models throu
 
 The description generation process for a new image has been divided into two parts: the retrieval of the most relevant images and their associated questions, and the utilization of those questions together with the answer provided by a VQA (Visual Question Answering) system to generate the description using a text-to-text model. The results of some of this research have been published in ICCBR, the International Conference on Case-Based Reasoning.
 
+![](schema.jpg)
+
 ## Setup note
 This repository only includes samples of the images used for the different processes. In order to be able to execute most notebooks, you have to download case base images and test images. To be able to do so the download of COCO annotation files might be needed (requirements are noted in txt files).
 
