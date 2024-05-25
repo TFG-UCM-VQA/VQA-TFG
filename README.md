@@ -60,7 +60,10 @@ Answer processing and analysis of user test done to evaluate descriptions genera
 - images: Folder containing evaluation description images.
 - Results.csv: Format .csv file with the results of evaluation test.
 - results_processing.ipynb: Complete process of results analysis.
-  
+
+## Project memory
+See Experience-based Image Description Generation.pdf to read the entire memory of our project.
+
 ## References
 See project memory to see all references and bibliography.
 
