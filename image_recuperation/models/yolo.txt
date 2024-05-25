@@ -1,0 +1,2 @@
+download yolo model weights:
+.cfg and .weights files
