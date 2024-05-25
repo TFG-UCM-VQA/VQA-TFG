@@ -58,7 +58,7 @@ Special mention to [https://github.com/tylin/coco-caption](https://github.com/ty
 
 ## Developers
 - Rubén Gómez Blanco (Universidad Complutense de Madrid)
-- Adrián Pérez Peindaor (Universidad Complutense de Madrid)
+- Adrián Pérez Peinador (Universidad Complutense de Madrid)
 - Adrián Sanjuán Espejo (Universidad Complutense de Madrid)
   
 ## Acknowledgement
