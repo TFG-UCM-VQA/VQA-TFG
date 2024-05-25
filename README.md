@@ -64,7 +64,7 @@ Answer processing and analysis of user test done to evaluate descriptions genera
 ## Project memory
 See Experience-based Image Description Generation.pdf to read the entire memory of our project.
 
-##ICCBR paper
+## ICCBR paper
 See ICCBR_2024___CBR_VQA.pdf to read our paper published in ICCBR 2024.
 
 ## References
