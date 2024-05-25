@@ -1,0 +1,4 @@
+These are the required COCO annotatons files:
+instances_train2017.json
+v2_mscoco_train2014_annotations.json
+v2_OpenEnded_mscoco_train2014_questions.json
